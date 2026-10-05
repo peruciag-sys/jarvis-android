@@ -1,0 +1,2 @@
+-keep class com.gtahub.jarvis.** { *; }
+-keepclassmembers class com.gtahub.jarvis.** { *; }
